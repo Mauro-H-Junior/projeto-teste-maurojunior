@@ -1,0 +1,1 @@
+print('Arquivo de teste para testar validação de versão')
